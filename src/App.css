@@ -1,0 +1,29 @@
+/* Tailwind CSS directives */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Import Google Fonts - Inter */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+
+/* Apply Inter font to the body (or root element) */
+body {
+    font-family: 'Inter', sans-serif;
+    /* Gradient background for a more vibrant feel */
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    min-height: 100vh;
+    margin: 0;
+    padding: 0;
+}
+
+/* Custom styling for focus states to match new color scheme */
+/* This ensures consistency even if Tailwind's default focus styles change */
+input:focus,
+select:focus {
+    border-color: #667eea !important; /* Blue-violet from gradient */
+    box-shadow: 0 0 0 3px rgba(102, 126, 234, 0.5) !important; /* Lighter blue-violet focus ring */
+    outline: none !important; /* Remove default outline */
+}
+
+/* You can add more custom CSS here if needed,
+   but Tailwind CSS classes handle most of the styling */
