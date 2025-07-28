@@ -113,7 +113,7 @@ Currency-Converter/
 
 <!-- Add screenshots here -->
 <div align="center">
-  <img src="https://via.placeholder.com/800x600/4F46E5/FFFFFF?text=Currency+Converter+Screenshot" alt="Currency Converter Screenshot" width="100%" max-width="800px"/>
+  <img src="D:\Project\Currency convert\Currency-Converter\Screenshot 2025-07-28 223441.png" alt="Currency Converter Screenshot" width="100%" max-width="800px"/>
 </div>
 
 ## 🔮 Future Enhancements
