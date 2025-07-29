@@ -8,7 +8,7 @@
 
 **A modern, responsive currency converter built with React and Tailwind CSS**
 
-[🚀 Live Demo](#) • [📋 Features](#features) • [🛠️ Installation](#installation) • [💻 Usage](#usage)
+[🚀 Live Demo](#) • [✨ Features](#-features) • [� Getting Started](#-getting-started) • [💻 Usage](#-usage)
 
 </div>
 
